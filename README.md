@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:bowtie: My name is David Ward and this is my GitHub profile. My business name is PineappleSoft, but its not strictly a business as I am not here to make money. 
+
+:seedling: I have recently finished studying for an ICT degree as an adult learner and am keen to practice software development. I will be working on solutions that will be useful to mine or my friends various projects.
+
+:notebook: I am here to learn, please try my software, adapt it if you will and help if you want. I don't work in ICT and I am not a professional, this is just a hobby, so please be patient and forgiving!
